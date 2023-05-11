@@ -2,11 +2,26 @@
 
 (This is a fork of [GeneratePassword](https://github.com/mhau/GeneratePassword) that works with Sublime Text 3)
 
-Add generation of passwords in different strengthes to the command palette:
+Add generation of passwords of varying lengths to the command palette.
 
-* Generate short password: 10 alphanumeric characters
-* Generate medium password: 15 alphanumeric characters
-* Generate long password: 20 alphanumeric characters
-* Generate secure password: all the above lengths with special characters `!@#$%^&*_-+=|/?:;<>~`
+## Passwords
 
-Human readable characters are without confusable characters like "0", "O", "1", "l" and so on.
+### Length
+	Tiny: 5
+	Short: 10
+	Medium: 15
+	Long: 20
+
+### Characters
+	ASCII:	abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+	Digits: 0123456789
+	Special: !@#$%^&*_-+=|/?:;<>~
+
+### Examples
+	Tiny: 
+	Short: 
+	Medium: 
+	Long: 
+	
+
+Disclaimer: Special characters are used in all password generator.

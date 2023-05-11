@@ -1,21 +1,18 @@
 [
 	{
-		"caption": "Generate short password",
+		"caption": "Generate tiny (5 char) password",
+		"command": "generate_tiny_password"
+	}, 
+	{
+		"caption": "Generate short (10 char) password",
 		"command": "generate_short_password"
-	}, {
-		"caption": "Generate medium password",
+	}, 
+	{
+		"caption": "Generate medium (15 char) password",
 		"command": "generate_medium_password"
-	}, {
-		"caption": "Generate long password",
+	}, 
+	{
+		"caption": "Generate long (20 char) password",
 		"command": "generate_long_password"
-	}, {
-		"caption": "Generate short secure password",
-		"command": "generate_short_secure_password"
-	}, {
-		"caption": "Generate medium secure password",
-		"command": "generate_medium_secure_password"
-	}, {
-		"caption": "Generate long secure password",
-		"command": "generate_long_secure_password"
-	}
+	}, 
 ]
